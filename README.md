@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictormendessilva&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 
 ## FRONTEND
-#### Abaixo, algumas tecnologias que utilizo e tenho conhecimento
+#### Abaixo algumas tecnologias que utilizo e tenho conhecimento
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 )
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
@@ -24,7 +24,7 @@
 )
 
 ## BACKEND
-#### Abaixo, algumas tecnologias que utilizo e tenho conhecimento
+#### Abaixo algumas tecnologias que utilizo e tenho conhecimento
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
 )
 ![Expressjs](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge
